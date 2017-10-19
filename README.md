@@ -1,1 +1,2 @@
-# wgruis.github.io
+# Snow Grus Blog
+
