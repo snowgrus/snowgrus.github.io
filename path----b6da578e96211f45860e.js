@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{242:function(t,o){t.exports={data:{site:{siteMetadata:{title:"Snow Grus Blog",author:"Snow Grus"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----b6da578e96211f45860e.js.map

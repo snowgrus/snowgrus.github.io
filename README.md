@@ -1,2 +1,0 @@
-# Snow Grus Blog
-

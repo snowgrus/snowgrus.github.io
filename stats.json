@@ -1,0 +1,56 @@
+{
+  "assetsByChunkName": {
+    "path---react": [
+      "path---react-23fe3aee9ebb66fd8dc4.js",
+      "path---react-23fe3aee9ebb66fd8dc4.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-d85661075645e70b9d9f.js",
+      "component---src-pages-index-js-d85661075645e70b9d9f.js.map"
+    ],
+    "path---": [
+      "path----b6da578e96211f45860e.js",
+      "path----b6da578e96211f45860e.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-ec365e15d053763cead0.js",
+      "component---src-templates-blog-post-js-ec365e15d053763cead0.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-2d3baafd64682bed3a5b.js",
+      "component---src-layouts-index-js-2d3baafd64682bed3a5b.js.map"
+    ],
+    "path---index": [
+      "path---index-ee6402fb7d9bbfa8d1f2.js",
+      "path---index-ee6402fb7d9bbfa8d1f2.js.map"
+    ],
+    "commons": [
+      "commons-844cf2a96003684d8584.js",
+      "build-js-styles.css",
+      "commons-844cf2a96003684d8584.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-772fa85745cc2c428ba4.js",
+      "build-js-styles.css",
+      "app-772fa85745cc2c428ba4.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-8cc825f53d2a862de3d8.js",
+      "component---src-pages-about-js-8cc825f53d2a862de3d8.js.map"
+    ],
+    "path---about": [
+      "path---about-ee6402fb7d9bbfa8d1f2.js",
+      "path---about-ee6402fb7d9bbfa8d1f2.js.map"
+    ]
+  }
+}
