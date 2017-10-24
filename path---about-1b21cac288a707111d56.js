@@ -1,0 +1,2 @@
+webpackJsonp([0xf927f8900006],{381:function(t,a){t.exports={data:{site:{siteMetadata:{title:"白鹤Snow",author:"Snow Grus",slogan:"没有最好，只有更好"}}},pathContext:{}}}});
+//# sourceMappingURL=path---about-1b21cac288a707111d56.js.map

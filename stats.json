@@ -1,56 +1,96 @@
 {
   "assetsByChunkName": {
     "path---react": [
-      "path---react-23fe3aee9ebb66fd8dc4.js",
-      "path---react-23fe3aee9ebb66fd8dc4.js.map"
+      "path---react-fa646f39b11785265cf2.js",
+      "path---react-fa646f39b11785265cf2.js.map"
+    ],
+    "component---src-pages-tag-javascript-js": [
+      "component---src-pages-tag-javascript-js-d81fc4276f0fbceb1bc9.js",
+      "component---src-pages-tag-javascript-js-d81fc4276f0fbceb1bc9.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-d85661075645e70b9d9f.js",
-      "component---src-pages-index-js-d85661075645e70b9d9f.js.map"
+      "component---src-pages-index-js-5b5f9c08e0c15a40dfcf.js",
+      "component---src-pages-index-js-5b5f9c08e0c15a40dfcf.js.map"
     ],
     "path---": [
-      "path----b6da578e96211f45860e.js",
-      "path----b6da578e96211f45860e.js.map"
+      "path----27300dd3ab598f3a241c.js",
+      "path----27300dd3ab598f3a241c.js.map"
+    ],
+    "path---7-architectural-attributes-of-a-reliable-react-component-5": [
+      "path---7-architectural-attributes-of-a-reliable-react-component-5-4002543b5c31d18326be.js",
+      "path---7-architectural-attributes-of-a-reliable-react-component-5-4002543b5c31d18326be.js.map"
+    ],
+    "path---7-architectural-attributes-of-a-reliable-react-component-4": [
+      "path---7-architectural-attributes-of-a-reliable-react-component-4-a23c9c0bb1f8e7197df6.js",
+      "path---7-architectural-attributes-of-a-reliable-react-component-4-a23c9c0bb1f8e7197df6.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-ec365e15d053763cead0.js",
-      "component---src-templates-blog-post-js-ec365e15d053763cead0.js.map"
+      "component---src-templates-blog-post-js-fa9433338330a51edf87.js",
+      "component---src-templates-blog-post-js-fa9433338330a51edf87.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-2d3baafd64682bed3a5b.js",
-      "component---src-layouts-index-js-2d3baafd64682bed3a5b.js.map"
+      "component---src-layouts-index-js-0d47e0200ac36caf47a0.js",
+      "component---src-layouts-index-js-0d47e0200ac36caf47a0.js.map"
+    ],
+    "path---7-architectural-attributes-of-a-reliable-react-component-2": [
+      "path---7-architectural-attributes-of-a-reliable-react-component-2-76cae585a670eb649b81.js",
+      "path---7-architectural-attributes-of-a-reliable-react-component-2-76cae585a670eb649b81.js.map"
     ],
     "path---index": [
-      "path---index-ee6402fb7d9bbfa8d1f2.js",
-      "path---index-ee6402fb7d9bbfa8d1f2.js.map"
+      "path---index-d261d6bea59be07fd64e.js",
+      "path---index-d261d6bea59be07fd64e.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-baab1c839499c3ccc322.js",
+      "component---src-pages-404-js-baab1c839499c3ccc322.js.map"
     ],
     "commons": [
-      "commons-844cf2a96003684d8584.js",
+      "commons-e20fcd13d3108545f4a6.js",
       "build-js-styles.css",
-      "commons-844cf2a96003684d8584.js.map",
+      "commons-e20fcd13d3108545f4a6.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---7-architectural-attributes-of-a-reliable-react-component-3": [
+      "path---7-architectural-attributes-of-a-reliable-react-component-3-b90e4552fa4a2438e341.js",
+      "path---7-architectural-attributes-of-a-reliable-react-component-3-b90e4552fa4a2438e341.js.map"
+    ],
+    "path---7-architectural-attributes-of-a-reliable-react-component-1": [
+      "path---7-architectural-attributes-of-a-reliable-react-component-1-01a0fdb65fb2635c6920.js",
+      "path---7-architectural-attributes-of-a-reliable-react-component-1-01a0fdb65fb2635c6920.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-772fa85745cc2c428ba4.js",
+      "app-3ae846898b3674d68032.js",
       "build-js-styles.css",
-      "app-772fa85745cc2c428ba4.js.map",
+      "app-3ae846898b3674d68032.js.map",
       "build-js-styles.css.map"
     ],
+    "path---tag-javascript": [
+      "path---tag-javascript-d261d6bea59be07fd64e.js",
+      "path---tag-javascript-d261d6bea59be07fd64e.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-8cc825f53d2a862de3d8.js",
-      "component---src-pages-about-js-8cc825f53d2a862de3d8.js.map"
+      "component---src-pages-about-js-73b341e92e18f6de080a.js",
+      "component---src-pages-about-js-73b341e92e18f6de080a.js.map"
     ],
     "path---about": [
-      "path---about-ee6402fb7d9bbfa8d1f2.js",
-      "path---about-ee6402fb7d9bbfa8d1f2.js.map"
+      "path---about-1b21cac288a707111d56.js",
+      "path---about-1b21cac288a707111d56.js.map"
     ]
   }
 }

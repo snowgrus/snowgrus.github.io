@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{151:function(t,a){t.exports={data:{site:{siteMetadata:{title:"白鹤Snow",author:"Snow Grus"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----27300dd3ab598f3a241c.js.map
