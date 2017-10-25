@@ -14,7 +14,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       graphql(
         `
       {
-        allMarkdownRemark(limit: 1000) {
+        allMarkdownRemark(limit: 800) {
           edges {
             node {
               frontmatter {

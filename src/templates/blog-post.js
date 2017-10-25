@@ -4,33 +4,27 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 
 import Bio from '../components/Bio'
-import { rhythm, scale } from '../utils/typography'
+import MarkdownBody from '../components/MarkdownBody'
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
+    const originUrl = get(post, 'frontmatter.originUrl')
     
     return (
       <div>
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
         <h1>{post.frontmatter.title}</h1>
-        <p
-          style={{
-            ...scale(-1 / 5),
-            display: 'block',
-            marginBottom: rhythm(1),
-            marginTop: rhythm(-1),
-          }}
-        >
-          {post.frontmatter.date}
+        <p>
+          <span>{post.frontmatter.date}</span>
+          {
+              originUrl ? (
+                <a href={originUrl} style={{marginLeft: '18px'}}>原文链接</a>
+              ) : null
+            }
         </p>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
+        <MarkdownBody html={post.html} />
       </div>
     )
   }
@@ -52,6 +46,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        originUrl
       }
     }
   }

@@ -2,7 +2,7 @@ import React from 'react'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
-import ArticlePreview from '../components/ArticlePreview'
+import BlogTagFilter from '../../components/BlogTagFilter'
 
 class BlogIndex extends React.Component {
   render() {
@@ -11,22 +11,8 @@ class BlogIndex extends React.Component {
 
     return (
       <div>
-        <Helmet title={get(this, 'props.data.site.siteMetadata.title')} />
-        {posts.map(post => {
-          if (post.node.path !== '/404/') {
-            
-            if (process.env.NODE_ENV === 'production') {
-              // 生成环境不发布 草稿状态下的 文章
-              if (get(post, 'node.frontmatter.status') !== 'draft') {
-                return <ArticlePreview post={post} key={get(post, 'node.frontmatter.path')} />
-              } else {
-                return null;
-              }
-            } else {
-              return <ArticlePreview post={post} key={get(post, 'node.frontmatter.path')} />
-            }
-          }
-        })}
+        <Helmet title={siteTitle} />
+        <BlogTagFilter posts={posts} tag="javascript" />
       </div>
     )
   }
@@ -39,7 +25,7 @@ BlogIndex.propTypes = {
 export default BlogIndex
 
 export const pageQuery = graphql`
-  query IndexQuery {
+  query JavascriptTagQuery {
     site {
       siteMetadata {
         title
